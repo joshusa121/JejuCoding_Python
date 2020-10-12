@@ -74,7 +74,7 @@ print('제 나이는 {0}입니다. 제 이름은 {1}입니다.'.format(age, name
 #f-string
 age = 10
 name = 'josh'
-print('제 나이는 '.age'입니다.)
+print('제 나이는 '.age'입니다.')
 print('제 나이는 {age}입니다. 제 이름은 {name}입니다.')
 
 #구구단
@@ -85,8 +85,8 @@ for i in ragne(2, 10):
 #리스트
 l = [100, 200, 300, 400]
 print(l)
-print(type(l))
 #print(dir(l))
+print(type(l))
 #변경이 가능한 자료형
 #순서가 있는 자료형
 print(l[1])
